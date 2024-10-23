@@ -1573,13 +1573,13 @@ ul.inner-list li:hover{ border: 1px solid #FF6D04;}
 }
 
 .faq-2 .faq-container .faq-item .faq-toggle {
-  position: absolute;
-  top: 20px;
-  right: 20px;
-  font-size: 16px;
-  line-height: 0;
-  transition: 0.3s;
-  cursor: pointer;
+     position: absolute;
+    top: 25px;
+    right: 20px;
+    font-size: 25px;
+    line-height: 0;
+    transition: 0.3s;
+    cursor: pointer;
 }
 
 .faq-2 .faq-container .faq-item .faq-toggle:hover {
