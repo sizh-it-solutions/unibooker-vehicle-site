@@ -1815,8 +1815,8 @@ ul.inner-list.payment li img {
 
 
 
-ul.inner-list.listapp-feature li{width: 187px;
-    height: 126px;
+ul.inner-list.listapp-feature li{width: 220px;
+    height: 179px;
     padding-top: 3px;
     margin-bottom: 6px;
     background: rgba(255, 255, 255, 0.60);
@@ -1835,8 +1835,15 @@ ul.inner-list.listapp-feature li img {
     margin-top: 10px;
     margin-bottom: 9px;}
 ul.inner-list.listapp-feature li span {
-    display: block;
-    font-size: 16px;
+   display: block;
+    font-size: 18px;
+    /* margin-top: -4px; */
+    width: 76%;
+    margin: 0 auto;
+    line-height: 24px;
+    height: 170px;
+    display: inline-grid;
+    text-align: center;
     /* margin-top: -4px; */
 }
 
